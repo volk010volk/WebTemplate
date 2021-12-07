@@ -1,0 +1,6 @@
+// npm (https://www.npmjs.com/)
+// Lodash (https://lodash.com/)
+Книжки: "Вы незнаете js" (https://github.com/azat-io/you-dont-know-js-ru)(https://www.findbook.ru/search/d0/?ptype=2&pvalue=%CA%E0%E9%EB+%D1%E8%EC%EF%F1%EE%ED&r=0&s=1&viewsize=15&startidx=0)
+//npm remove lodash - удаляет библиотеку из зависимости нашего проекта.
+webpack - сборщик проектов.(https://webpack.js.org/)
+Настройка Webpack 5 с нуля - https://habr.com/ru/post/524260/
